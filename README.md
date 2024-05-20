@@ -45,3 +45,5 @@ Welcome to an epic journy through the realms of literature where readers can see
 coming soon!
 
 ## Credit
+
+[Nathan Davis](https://github.com/NatDavies06/BookQuest-21.git)
